@@ -1,0 +1,46 @@
+.welcome{
+    padding: 0 5%;
+    margin-block: 50px;
+}
+
+.about{
+    padding: 0 5%;
+    margin-block: 50px; 
+}
+
+.one{
+    background-color: #f9f9ff;
+    padding: 0 5%;
+    padding-block: 80px;
+    box-shadow: rgba(136, 165, 191, 0.48) 6px 2px 16px 0px, rgba(255, 255, 255, 0.8) -6px -2px 16px 0px;
+    border-top-right-radius: 100px;
+    border-bottom-left-radius: 100px;
+}
+.one:hover{
+    background-color: #eee;
+    box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+}
+.school{
+    margin: 0 5%;
+    margin-block: 100px;
+    background-color: #eee;
+   padding-block: 50px;
+}
+
+.school:hover{
+    background-color: #f9f9ff;
+}
+.mm{
+    padding-left: 50px;
+    text-align: left;
+}
+
+.down{
+    margin-bottom: 100px;
+}
+
+.list-group{
+    background-color: #eee;
+    box-shadow: rgba(0, 0, 0, 0.12) 0px 1px 3px, rgba(0, 0, 0, 0.24) 0px 1px 2px;
+}
+
